@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg"170"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src=""></a>
+<a href="#"><img title="Kaweesha chamod " src=""></a>
