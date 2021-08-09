@@ -12,10 +12,11 @@ You can click the Preview link to take a look at your changes.
 ## Thanks for Everything 
 ### We will always remember you..
 
-<div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg"170"/>
-  <p align="center">
-<a href="#"><img title="Kaweesha chamod " src=""></a>
+<div align = "center">
+
+  <img src = "https://i.imgur.com/MZDCN2M.jpeg" width = "200" height = "200">
+
+  <h1> 🐼 Kaweeshachamodk 🐼 </h1>
 
 
 <div align = "center">
