@@ -22,9 +22,4 @@ You can click the Preview link to take a look at your changes.
 
   <img src = "https://telegra.ph/file/0a526996ffd20bd5177cf.jpg" width = "200" height = "200">
 
-  <h1> 🐺 Kaweeshachamodk </h1>
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/62959beb1b22e8e76203d.jpg"200"/>
-  <p align="center">
-<a href="#"><img title="CYBER_BOT" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+  <h1> 🐼 Kaweeshachamodk 🐼 </h1>
