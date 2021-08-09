@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 <a href="#"><img title="Kaweesha chamod " src=""></a>
 
 
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/0a526996ffd20bd5177cf.jpg"170"/>
-  <p align="center">
-<a href="#"><img title="Kaweesha chamod " src=""></a>
+<div align = "center">
+
+  <img src = "https://telegra.ph/file/0a526996ffd20bd5177cf.jpg" width = "200" height = "200">
+
+  <h1> 🐺 Kaweeshachamodk </h1>
