@@ -12,11 +12,14 @@ You can click the Preview link to take a look at your changes.
 ## Thanks for Everything 
 ### We will always remember you..
 
-<div align = "center">
+## Thanks for Everything 
+### We will always remember you..
 
-  <img src = "https://i.imgur.com/MZDCN2M.jpeg" width = "200" height = "200">
-
-  <h1> 🐼𝐏𝐈𝐍𝐊𝐘-𝐁𝐎𝐓🐼 </h1>
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg"170" height="170"/>
+  <p align="center">
+<a href="#"><img title="PINKY-BOT" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 
 <div align = "center">
