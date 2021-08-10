@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg"170" height="170"/>
+  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg""https://telegra.ph/file/62959beb1b22e8e76203d.jpg"170" height="170"/>
   <p align="center">
 <a href="#"><img title="PINKY-BOT" src="https://img.shields.io/badge/pinky bot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
