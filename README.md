@@ -9,11 +9,25 @@
 Kaweeshachamodk/Kaweeshachamodk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Thanks for Everything 
-### We will always remember you..
+## 👋 Hello, I'm [Kaweeshachamodk](https://github.com/Kaweeshachamodk) simple developer 😊.
 
+<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+
+```
+
+📃  I'm currently learning:
+
+- nodejs
+
+- Javascript
+
+- Html
+
+```
+
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ## Thanks for Everything 
-### We will always remember you..
+### We will always remember you
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg""https://telegra.ph/file/62959beb1b22e8e76203d.jpg"170" height="170"/>
@@ -34,20 +48,3 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://telegra.ph/file/0a526996ffd20bd5177cf.jpg" width = "200" height = "200">
 
   <h1> 🐼𝐂𝐘𝐁𝐄𝐑-𝐁𝐎𝐓🐼 </h1>
-## 👋 Hello, I'm [Kaweeshachamodk](https://github.com/Kaweeshachamodk) simple developer 😊.
-
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
-
-```
-
-📃  I'm currently learning:
-
-- nodejs
-
-- Javascript
-
-- Html
-
-```
-
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
