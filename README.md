@@ -34,15 +34,11 @@ You can click the Preview link to take a look at your changes.
   <p align="center">
 <a href="#"><img title="PINKY-BOT" src="https://img.shields.io/badge/pinky bot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-
-
-<div align = "center">
-
-  <img src = "https://telegra.ph/file/62959beb1b22e8e76203d.jpg" width = "200" height = "200">
-
-  <h1> 🐼𝐖𝐎𝐎𝐋𝐅_𝐅𝐌𝐋🐼 </h1>
-
-
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/62959beb1b22e8e76203d.jpg"170" height="170"/>
+  <p align="center">
+<a href="#"><img title="WOOLF_FML" src="https://img.shields.io/badge/pinky bot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 <div align = "center">
 
   <img src = "https://telegra.ph/file/0a526996ffd20bd5177cf.jpg" width = "200" height = "200">
