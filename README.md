@@ -30,9 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 <a p="https://github.com/kaweeshachamodk" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
 
-<a p="https://wa.me/message/3QDR4ZNGEWTNC1" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Whatsapp"></a>
+<a p="https://t.me/Kaweeshachamod" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Whatsapp"></a>
 
-    
+<a p="https://wa.me/message/3QDR4ZNGEWTNC1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Whatsapp group"></a>
+
+   
 
 ----
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
