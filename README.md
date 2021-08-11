@@ -26,9 +26,11 @@ You can click the Preview link to take a look at your changes.
 ```
 #### 🚀 Contact Us Me:
 
-<a href="https://wa.me/17864802647" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a p="https://wa.me/message/3QDR4ZNGEWTNC1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-  
+<a p="https://wa.me/message/3QDR4ZNGEWTNC1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="github"></a>
+
+    
 
 ----
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
