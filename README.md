@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <a p="https://chat.whatsapp.com/H4uRJl4lUjILvpQjxoHwKQ" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Whatsapp group"></a>
 
-<a p="https://t.me/joinchat/QMT9i0oKkXswZTdl" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Telegram group"></a>
+<a p="https://t.me/joinchat/QMT9i0oKkXswZTdl" target="_blank"><img src="https://img.shields.io/badge/Telegram group-%808080.svg?&style=flat-square&logo=Telegram group&logoColor=white" alt="Telegram group"></a>
 
    
 
