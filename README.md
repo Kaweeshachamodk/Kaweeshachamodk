@@ -9,7 +9,7 @@
 Kaweeshachamodk/Kaweeshachamodk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 👋 Hello, I'm [Kaweeshachamodk](https://github.com/Kaweeshachamodk) simple developer 😊.
+👋 Hello, I'm [Kaweeshachamodk](https://github.com/Kaweeshachamodk) simple developer 😊.
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
