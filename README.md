@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 ```
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-## Thanks for Everything 
-### We will always remember you
+
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg""https://telegra.ph/file/62959beb1b22e8e76203d.jpg"170" height="170"/>
