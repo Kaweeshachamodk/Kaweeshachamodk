@@ -14,11 +14,12 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 
-📃  I'm currently learning:
 
 </br>
 
 </br>
+
+-📑 I'm currently learning:
 
 - 👀 I’m interested in ...
 
