@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
--📑 I'm currently learning:
+- 📑 I'm currently learning:
 
 - 👀 I’m interested in ...
 
