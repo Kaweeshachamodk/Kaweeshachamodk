@@ -44,18 +44,4 @@ You can click the Preview link to take a look at your changes.
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
-<div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MZDCN2M.jpeg""https://telegra.ph/file/62959beb1b22e8e76203d.jpg"170" height="170"/>
-  <p align="center">
-<a href="#"><img title="PINKY-BOT" src="https://img.shields.io/badge/pinky bot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/62959beb1b22e8e76203d.jpg"170" height="170"/>
-  <p align="center">
-<a href="#"><img title="WOOLF_FML" src="https://img.shields.io/badge/WOOLF_FML-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/0a526996ffd20bd5177cf.jpg"170" height="170"/>
-  <p align="center">
-<a href="#"><img title="WOOLF_FML" src="https://img.shields.io/badge/CYBER_BOT-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+
