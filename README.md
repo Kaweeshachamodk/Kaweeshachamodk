@@ -1,4 +1,17 @@
-![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Kaweeshachamodk/STEFANIE-BETA-V-8.5&left_color=brightpink&right_color=black)
+<p align="center">
+  <a href="https://github.com/Kaweeshachamodk">
+    <img src="https://komarev.com/ghpvc/?username=Kaweeshachamodk&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/Kaweeshachamodk?tab=stars">
+    <img src="https://img.shields.io/github/stars/Kaweeshachamodk?color=ff69b4&label=Stars&style=plastic">
+
+  </a>
+  <a href="https://github.com/Kaweeshachamodk?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kaweeshachamodk?color=ff69b4&label=Followers&style=plastic">
+
+  </a>
+</p>
 
 
 # Hi I'm Kaweesha Chamod&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
