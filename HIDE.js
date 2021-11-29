@@ -1,3 +1,3 @@
-Poo myre edukaan vanneka
+i am hided this repo plugins 
 
-Enthayallum vannathalle nokitt pokoo oke bye 
+This plugins are not alowed here oke bye 
