@@ -1,4 +1,4 @@
-![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Kaweeshachamodk/STEFANIE-BETA-V-8.5&left_color=blue&right_color=brightgreen)
+![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Kaweeshachamodk/STEFANIE-BETA-V-8.5&left_color=brightpink&right_color=black)
 
 
 # Hi I'm Kaweesha Chamod&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
