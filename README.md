@@ -18,7 +18,7 @@
   </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=kaweesha%20-%20chamod&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___kaweesha____chamod___&github=kaweesha_chamod&twitter=@)
+![My card name](https://cardivo.vercel.app/api?name=kaweesha%20-%20chamod&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___kaweesha____chamod___&github=kaweesha_chamodk&twitter=@)
 
 
 
