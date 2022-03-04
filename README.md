@@ -4,16 +4,16 @@
 # Hi I'm Kaweesha Chamod&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
 
 <p align="center">
-  <a href="https://github.com/Kaweeshachamodk">
-    <img src="https://komarev.com/ghpvc/?username=Kaweeshachamodk&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/whiteshadowofficial">
+    <img src="https://komarev.com/ghpvc/?username=whiteshadowofficial&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/Kaweeshachamodk?tab=stars">
-    <img src="https://img.shields.io/github/stars/Kaweeshachamodk?color=ff69b4&label=Stars&style=plastic">
+  <a href="https://github.com/whiteshadowofficial?tab=stars">
+    <img src="https://img.shields.io/github/stars/whiteshadowofficial?color=ff69b4&label=Stars&style=plastic">
 
   </a>
-  <a href="https://github.com/Kaweeshachamodk?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kaweeshachamodk?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/whiteshadowofficial?tab=followers">
+    <img src="https://img.shields.io/github/followers/whiteshadowofficial?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 
 <!---
-Kaweeshachamodk/Kaweeshachamodk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+whiteshadowofficial/whiteshadowofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 👋 Hello, I'm [Kaweeshachamodk](https://github.com/Kaweeshachamodk) simple developer 😊.
@@ -61,9 +61,9 @@ You can click the Preview link to take a look at your changes.
 
 <a p="https://wa.me/message/3QDR4ZNGEWTNC1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-<a p="https://github.com/kaweeshachamodk" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
+<a p="https://github.com/whiteshadowofficial" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
 
-<a p="https://t.me/Kaweeshachamod" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Whatsapp"></a>
+<a p="https://t.me/whiteshadowofficial" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Whatsapp"></a>
 
 #### 🚀 Support group:
 
@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaweeshachamodk)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=whiteshadowofficial)
 
 </details>
 
@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Metrics](https://metrics.lecoq.io/SubadraBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=kaweeshachamodk&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=whiteshadowofficial&theme=highcontrast&repo=Pinky_V2)](https://github.com/SubadraBro/Pinku_V2)
 
 </details>
 
