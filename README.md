@@ -1,7 +1,7 @@
 
 
 
-# Hi I'm Kaweesha Chamod&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
+# Hi I'm White Shadow&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
 
 <p align="center">
   <a href="https://github.com/whiteshadowofficial">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=kaweesha%20-%20chamod&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___kaweesha____chamod___&github=kaweesha_chamodk&twitter=@)
+![My card name](https://cardivo.vercel.app/api?name=White%20-%20Shadow&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___kaweesha____chamod___&github=kaweesha_chamodk&twitter=@)
 
 
 
@@ -27,7 +27,7 @@
 whiteshadowofficial/whiteshadowofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hello, I'm [Kaweeshachamodk](https://github.com/Kaweeshachamodk) simple developer 😊.
+👋 Hello, I'm [Mr.White Shadow](https://github.com/whiteshadowofficial) simple developer 😊.
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on ...
 
-- 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/kaweeshachamodk) -->
+- 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/whiteshadowofficial) -->
 
 - 🌱 I’m currently learning **New Things**
 
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 #### 🚀 Contact Us Me:
 
-<a p="https://wa.me/message/3QDR4ZNGEWTNC1" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a p="https://wa.me/94779529221" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 <a p="https://github.com/whiteshadowofficial" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
 
