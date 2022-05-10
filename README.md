@@ -73,19 +73,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a p="" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-<a p="https://github.com/whiteshadowofficial" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
-
-<a p="https://t.me/whiteshadowofficial" target="_blank"><img src="https://img.shields.io/badge/Telegram-%808080.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Whatsapp"></a>
-
-#### 🚀 Support group:
-
-<a p="https://chat.whatsapp.com/H4uRJl4lUjILvpQjxoHwKQ" target="_blank"><img src="https://img.shields.io/badge/Whatsapp group-%808080.svg?&style=flat-square&logo=Whatsapp group&logoColor=white" alt="Whatsapp group"></a>
-
-<a p="https://t.me/joinchat/QMT9i0oKkXswZTdl" target="_blank"><img src="https://img.shields.io/badge/Telegram group-%808080.svg?&style=flat-square&logo=Telegram group&logoColor=white" alt="Telegram group"></a>
-
-   
 
 ----
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
