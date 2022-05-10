@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="github.com/blackpantherofc">
-    <img src="https://img.shields.io/static/v1?label=Cantact Black Panther&message=Click this now&color=yellow&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Black Panther&message=Click this now&color=yellow&style=plastic">
 
   </a>
 
