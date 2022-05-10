@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="kaweeshac14@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=´´Using Gmail´´&message=Click this now&color=red&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=´Using Gmail´&message=Click this now&color=red&style=plastic">
 
   </a>
 
