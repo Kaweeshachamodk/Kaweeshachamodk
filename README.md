@@ -59,7 +59,21 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 #### 🚀 Contact Us Me:
 
-<a p="https://wa.me/94779529221" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<p align="center">
+  <a href="https://wa.me/94779529221">
+    <img src="https://img.shields.io/static/v1?label=Using WhatsApp&message=Click this now&color=aqua&style=plastic">
+
+  </a>
+
+<p align="center">
+  <a href="github.com/blackpantherofc">
+    <img src="https://img.shields.io/static/v1?label=Cantact Black Panther&message=Click this now&color=aqua&style=plastic">
+
+  </a>
+
+
+
+<a p="" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 <a p="https://github.com/whiteshadowofficial" target="_blank"><img src="https://img.shields.io/badge/github-%808080.svg?&style=flat-square&logo=github&logoColor=black" alt="github"></a>
 
