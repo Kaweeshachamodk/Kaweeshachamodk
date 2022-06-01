@@ -30,7 +30,7 @@
   </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=White%20-%20Shadow&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___Mr.White____shadow___&github=whiteshadowofficial&twitter=@)
+![My card name](https://cardivo.vercel.app/api?name=White%20-%20Shadow&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.pnginstagram=___two____three___&linkedin=___Mr.White____shadow___&github=whiteshadowofficial&twitter=@)
 
 
 
