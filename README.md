@@ -1,8 +1,20 @@
 
 
 
-# Hi I'm MR :| White Shadow&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
+<img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
 
+<h3>Programming Language I Have Studied</h3></br>
+<div id="langs">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
+<img src="https://img.shields.io/badge/Java-2b2e4d?style=for-the-badge&logo=java&logoColor=ff0000" >
+<img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
+</div>
+&nbsp;
+<div id="stats">
 <p align="center">
   <a href="https://github.com/whiteshadowofficial">
     <img src="https://komarev.com/ghpvc/?username=whiteshadowofficial&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
