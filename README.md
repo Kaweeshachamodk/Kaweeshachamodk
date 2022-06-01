@@ -49,23 +49,6 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-- 📑 I'm currently learning:
-
-- 👀 I’m interested in ...
-
-- 💞️ I’m looking to collaborate on ...
-
-- 🔭 I’m currently working not working I am offline <!-- [EDITH USER BOT](https://github.com/whiteshadowofficial) -->
-
-- 🌱 I’m currently learning **New Things**
-
-- 👯 My Fun Fact is **Coffee & Friends**
-
-- 🤝 I’m looking for help with **Profession Developers**
-
-- 💬 Ask me about **all things**
-
-- 📫 How to reach me **kaweeshac14@gmail.com**
 
 
 <br><br>
