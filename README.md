@@ -77,6 +77,13 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/static/v1?label=´Using Github´&message=Click this now&color=aqua&style=plastic">
 
   </a>
+  </a>
+
+<p align="center">
+  <a href="https://mrwhiteshadowofficial00.blogspot.com/2022/06/mrwhite-shadow-ofc.html?m=1">
+    <img src="https://img.shields.io/static/v1?label=´Using Website´&message=Click this now&color=aqua&style=plastic">
+
+  </a>
 
 
 
