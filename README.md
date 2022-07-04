@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 <details>
 
     
-![Metrics](https://metrics.lecoq.io/SubadraBro?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/whiteshadowofficial?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=whiteshadowofficial&theme=highcontrast&repo=whiteshadowofficial)](https://github.com/whiteshadowofficial/whiteshadowofficial)
 
