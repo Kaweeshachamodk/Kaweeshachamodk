@@ -39,7 +39,10 @@
 
 
 
-👋 Hello, I'm [Mr.White Shadow](https://github.com/whiteshadowofficial) simple developer 😊.Always Working In Github.
+> Developer 
+> Youtuber
+> Web designer
+> Graph designer
 
 
 
