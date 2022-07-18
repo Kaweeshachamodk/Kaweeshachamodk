@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Java-2b2e4d?style=for-the-badge&logo=java&logoColor=ff0000" >
 <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
 </div>
+<div>
 &nbsp;
 <div id="stats">
 <p align="center">
