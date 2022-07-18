@@ -48,11 +48,10 @@
 
 ```
 📃  I'm currently:
+
 - Developer
 - Web Designer
 - Youtuber
-- 
-- 
 ```  
 
 
