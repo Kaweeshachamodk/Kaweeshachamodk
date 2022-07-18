@@ -40,8 +40,11 @@
 
 
 > Developer 
+----
 > Youtuber
+----
 > Web designer
+----
 > Graph designer
 
 
