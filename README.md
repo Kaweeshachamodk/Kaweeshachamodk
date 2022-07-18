@@ -47,12 +47,12 @@
 
 
 ```
-📃  I'm currently learning:
-- NodeJS
-- Javascript
-- Java
-- Html
-- css
+📃  I'm currently:
+- Developer
+- Web Designer
+- Youtuber
+- 
+- 
 ```  
 
 
