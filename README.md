@@ -1,7 +1,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png" >
+<img src="https://telegra.ph/file/258d24e5a7ff2f0305c65.jpg" >
 
 <h3>Programming Language I Have Studied</h3></br>
 <div id="langs">
@@ -57,10 +57,10 @@ You can click the Preview link to take a look at your changes.
 
 ----
 
-> <a href="http://wa.me/+27791908127?text=හායි🙈🌸"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="http://wa.me/+27791908127?text=හායි🙈🌸"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
 
-> <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
 
 
