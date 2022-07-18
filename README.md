@@ -1,7 +1,7 @@
 
 
 
-<img src="https://telegra.ph/file/258d24e5a7ff2f0305c65.jpghttps://telegra.ph/file/258d24e5a7ff2f0305c65.jpg" >
+<img src="https://telegra.ph/file/258d24e5a7ff2f0305c65.jpg" >
 
 <h3>Programming Language I Have Studied</h3></br>
 <div id="langs">
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hello, I'm [Mr.White Shadow](https://github.com/whiteshadowofficial) simple developer 😊.
 
-<img align="right" alt="GIF" height="125px" src="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" />
+<img align="right" alt="GIF" height="125px" src="https://telegra.ph/file/258d24e5a7ff2f0305c65.jpg" />
 
 
 
