@@ -1,7 +1,7 @@
 
 
 
-<img src="https://telegra.ph/file/258d24e5a7ff2f0305c65.jpg" >
+<img src="https://telegra.ph/file/258d24e5a7ff2f0305c65.jpghttps://telegra.ph/file/258d24e5a7ff2f0305c65.jpg" >
 
 <h3>Programming Language I Have Studied</h3></br>
 <div id="langs">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-![My card name](https://cardihttps://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wgadow___&github=whiteshadowofficial&twitter=@)
+![My card name](https://cardadow___&github=whiteshadowofficial&twitter=@)
 
 
 
