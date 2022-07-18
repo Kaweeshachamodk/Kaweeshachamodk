@@ -30,7 +30,7 @@
   </a>
 </p>
 
-![My card name](https://cardivo.vercel.app/api?name=White%20-%20Shadow&description=Hi,%20I'm%20a%20simple%20Developer%20🥰&image=https://user-images.githubusercontent.com/62290930/137728791-05e95923-7e38-41e4-beea-2c43a5baa8bc.png&instagram=___two____three___&linkedin=___Mr.White____shadow___&github=whiteshadowofficial&twitter=@)
+![My card name](https://cardihttps://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wgadow___&github=whiteshadowofficial&twitter=@)
 
 
 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 --->
 👋 Hello, I'm [Mr.White Shadow](https://github.com/whiteshadowofficial) simple developer 😊.
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
+<img align="right" alt="GIF" height="125px" src="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" />
 
 
 
