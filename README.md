@@ -64,14 +64,14 @@
 
 
 <br><br>
-#### 🚀 Contact Us Me:
+#### 🚀 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗨𝘀 𝗠𝗲:
 
 
 ----
 
 > <a href="http://wa.me/+27791908127?text=හායි🙈🌸"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
-## 𝗪𝗦 𝗠𝗢𝗗𝗦 𝗢𝗙𝗖 ☯︎ϟ
+#### 𝗪𝗦 𝗠𝗢𝗗𝗦 𝗢𝗙𝗖 ☯︎ϟ
 
 > <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
