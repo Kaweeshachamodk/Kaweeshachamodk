@@ -73,6 +73,11 @@
 
 #### 𝗪𝗦 𝗠𝗢𝗗𝗦 𝗢𝗙𝗖 ☯︎ϟ
 
+
+<img align="right" alt="GIF" height="125px" src="https://telegra.ph/file/34b606df946a576bf1140.jpg" />
+
+
+
 > <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
 
