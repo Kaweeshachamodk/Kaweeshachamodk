@@ -1,10 +1,4 @@
 ## Mr.White Shadow
-</p>
-
-
-----
-
-  <a href="https://github.com/Fxc7"><img src="https://cardivo.vercel.app/api?name=BuDy%20X&description=%F0%9F%91%8B%20Hello,%20I%20m%20[BuDy%20X]%20simple%20developer%20%F0%9F%98%8A.&image=https://avatars.githubusercontent.com/u/85840062?v=4&github=MrChaby&pattern=leaf&colorPattern=%23eaeaea%22" /><a>
 
 
 
