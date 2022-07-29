@@ -4,8 +4,10 @@
 
 ----
 
-  ![My card name](https://cardivo.vercel.app/api?name=Mr.White%20Shadow&description=Hi,%20i%27m%20a%20%20%20simple%20developer%20and%20i%27m%2018%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/258d24e5a7ff2f0305c65.jpg?v=4&backgroundColor=%23ecf0f1&github=whiteshadowofficial&pattern=leaf&colorPattern=%23eaeaea)
-</p>
+  </p>
+
+![My card name](https://cardivo.vercel.app/api?name=Mr.White%20Shadow&description=%F0%9F%91%8B%20Hello,%20I%20m%20[White%20shadow]%20simple%20developer%20%F0%9F%98%8A.&image=https://telegra.ph/file/258d24e5a7ff2f0305c65.jpg?v=4&github=whiteshadowofficial&pattern=leaf&colorPattern=%23eaeaea%22)
+
 
 
 
