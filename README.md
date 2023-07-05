@@ -60,7 +60,7 @@
 
 ----
 
-> <a href="http://wa.me/+27791908127?text=හායි🙈🌸"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
+> <a href="http://wa.me/+94779529221?text=හායි🙈🌸"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 ```
 📃  Contact Me on Whatsapp:
 
